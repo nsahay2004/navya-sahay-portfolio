@@ -7,7 +7,10 @@ location within facial images. The CNNs determine and classify specific eye move
 predefined eye alphabet, “up”, “left”, “right”, and “down” within the localized eye images.Our goal is to 
 improve on Blink-To-Live, an eye-tracking system based on facial landmark detection (DLib) designed by Ezzat et al. 
 2023, to classify eye movements with greater accuracy across a more diverse audience. The paper’s objectives 
-are to develop a computational eye-based communication system for patients with motor neuron disorders, especially in low-income countries. This architecture, Blink-To-Live, is not software or hardware-specific, serving as a cost-efficient alternative to comparable sensor-based systems. Blink-To-Live establishes an eye gesture alphabet such that speech-impaired patients are able to express their basic needs.
+are to develop a computational eye-based communication system for patients with motor neuron disorders, 
+especially in low-income countries. This architecture, Blink-To-Live, is not software or hardware-specific, 
+serving as a cost-efficient alternative to comparable sensor-based systems.Blink-To-Live establishes an 
+eye gesture alphabet such that speech-impaired patients are able to express their basic needs.
 
 We chose this paper as we are all interested in nonverbal communication and how technology could universalize 
 what would otherwise be marginalized languages. We were impressed by the ingenuity of this paper, and we were 
