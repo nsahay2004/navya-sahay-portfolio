@@ -1,1 +1,8 @@
 Project: https://devpost.com/software/illuminate-h6m8kr
+
+Description: The website is created for professional users wishing to gender debias text from 
+recommendation letters, job performances and evaluations, etc. Essentially, the user can paste their 
+text on the website and they are offered suggestion of various levels depending on the extent of the
+gender bias within adjectives they use. Some adjectives are flagged because they may be too derogatory 
+or gendered against women. For others, the user is offered a suggestion for a gender-neutral synonym for 
+the adjective.
