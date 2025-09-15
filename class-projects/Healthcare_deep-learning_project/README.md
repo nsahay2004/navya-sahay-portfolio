@@ -1,4 +1,5 @@
-Project: https://github.com/kana820/Blink-147 
+Project: https://devpost.com/software/eye-based-communication ; 
+https://github.com/kana820/Blink-147 
 
 Description: Total paralysis patients often rely on eye-based communication, using different eye movements 
 to relay basic needs such as food and personal well-being.To accurately translate their messages and make 
